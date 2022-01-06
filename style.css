@@ -1,0 +1,173 @@
+body{
+    font-family: 'Archivo Black', sans-serif;
+    font-family: 'Fredoka One', cursive;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Lora', serif;
+    font-family: 'Meow Script', cursive;
+    font-family: 'Merriweather', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif; 
+    margin: 0px;
+}
+.first-section{
+    margin: 10%;
+}
+.fixable-area{
+    display: flex;
+}
+#border-left{
+    background-color: tomato;
+    width: 4px;
+    height: 125px;
+    border-radius: 30px;
+    margin-top: 65px;
+    margin-right:  5px;
+}
+h1{
+    font-family: 'Lora', serif;
+    font-size: 60px;
+}
+.text-color{
+    color: rgb(172, 56, 172);
+}
+p{
+    letter-spacing: 0.5px;
+    word-spacing: 1px;
+    line-height: 1.5;
+    padding: 20px 10px;
+}
+.link-button{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+    background-image: linear-gradient(tomato,rgb(255, 0, 0));
+    padding: 10px 30px;
+    border-radius: 7px;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 70%;
+    padding-left: 100px;
+}
+.margin-top-botm{
+    margin-bottom: 150px;
+}
+.three-div p{
+    padding: 0px;
+}
+h2{
+    font-family: 'Archivo Black', sans-serif;
+    font-family: 'Fredoka One', cursive;
+    font-size: 50px;
+}
+.three-div h2{
+    text-align: center;
+}
+h3{
+    font-family: 'Archivo Black', sans-serif;
+    font-family: 'Fredoka One', cursive;
+}
+.s-one-div-one{
+    background-image: url(./images/illustrators/illustrator-1.png);
+    background-size: 120px;
+    background-repeat: no-repeat;
+    background-position: 10px 25px;
+    background-color: rgba(0, 255, 255, 0.100);
+    width: 26%;
+    height: 200px;
+    margin: 0 auto;
+    padding: 120px 20px 90px;
+    border-radius: 30px;
+}
+.s-one-div-two{
+    background-image: url(./images/illustrators/illustrator-2.png);
+    background-size: 120px;
+    background-repeat: no-repeat;
+    background-position: 10px 25px;
+    background-color: rgba(255, 0, 0, 0.070);
+    width: 26%;
+    height: 200px;
+    margin: 0 auto;
+    padding: 120px 20px 90px;
+    border-radius: 30px;
+}
+.s-one-div-three{
+    background-image: url(./images/illustrators/2.png);
+    background-repeat: no-repeat;
+    background-size: 120px;
+    background-position: 10px 25px;
+    background-color: rgba(255, 255, 0, 0.170);
+    width: 26%;
+    height: 200px;
+    margin: 0 auto;
+    padding: 120px 20px 90px;
+    border-radius: 30px;
+}
+.second-section{
+    margin-bottom: 150px;
+    background-image: url(./images/shapes/shape-7.png);
+    background-repeat: no-repeat;
+    background-size: 350px;
+    background-position: left top;
+}
+
+.second-section{
+    padding-right: 90px;
+    padding-left: 80px;
+}
+.reding-quran img{
+    width: 70%;
+    padding-right: 50px;
+}
+.develop{
+    margin-top: 50px;
+}
+
+.third-section{
+    background-image: url(./images/shapes/shape-7.png);
+    background-repeat: no-repeat;
+    background-size: 500px;
+    background-position: right bottom;
+    padding-left: 100px;
+    padding-bottom: 140px;
+    margin-bottom: 10px;
+}
+.teaching-quran img{
+    width: 70%;
+    padding-left: 50px;
+}
+
+footer{
+    margin-top: 100px;
+    padding-top: 5px;
+    background-color: black;
+    color:blanchedalmond;
+    text-align: center;
+    padding-bottom: 5px;
+}
+footer div{
+    margin-top: 1px;
+    margin-bottom: 1px;
+    padding-bottom: 1px;
+    padding-top: 1px;
+}
+.font-family{
+    padding-right: 15px;
+    font-family: 'Meow Script', cursive;
+}
+
+
+
+
+
+
+
+
+
+
