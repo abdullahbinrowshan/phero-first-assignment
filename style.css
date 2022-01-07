@@ -9,7 +9,7 @@ body{
     font-family: 'Montserrat', sans-serif;
     font-family: 'Poppins', sans-serif;
     font-family: 'Raleway', sans-serif;
-    font-family: 'Roboto', sans-serif; 
+    font-family: 'Roboto', sans-serif;
     margin: 0px;
 }
 .first-section{
@@ -80,9 +80,9 @@ h3{
     background-position: 10px 25px;
     background-color: rgba(0, 255, 255, 0.100);
     width: 26%;
-    height: 200px;
+    height: 140px;
     margin: 0 auto;
-    padding: 120px 20px 90px;
+    padding: 140px 20px 80px;
     border-radius: 30px;
 }
 .s-one-div-two{
@@ -92,9 +92,9 @@ h3{
     background-position: 10px 25px;
     background-color: rgba(255, 0, 0, 0.070);
     width: 26%;
-    height: 200px;
+    height: 140px;
     margin: 0 auto;
-    padding: 120px 20px 90px;
+    padding: 140px 20px 80px;
     border-radius: 30px;
 }
 .s-one-div-three{
@@ -104,9 +104,9 @@ h3{
     background-position: 10px 25px;
     background-color: rgba(255, 255, 0, 0.170);
     width: 26%;
-    height: 200px;
+    height: 140px;
     margin: 0 auto;
-    padding: 120px 20px 90px;
+    padding: 140px 20px 80px;
     border-radius: 30px;
 }
 .second-section{
@@ -142,32 +142,37 @@ h3{
     width: 70%;
     padding-left: 50px;
 }
-
+.bonus-section{
+    margin-bottom: 150px;
+}
+.bonus-img img{
+    width: 35%;
+    padding-left: 250px;
+}
+.bonus-text-senter{
+    text-align: center;
+}
+.bonus-margin-top{
+    padding-top: 50px;
+}
+.padding-right{
+    padding-right: 50px;
+}
 footer{
-    margin-top: 100px;
-    padding-top: 5px;
     background-color: black;
     color:blanchedalmond;
     text-align: center;
     padding-bottom: 5px;
+    padding-top:1px;
+    font-size: 28px;
+    line-height: 1px;
 }
-footer div{
-    margin-top: 1px;
-    margin-bottom: 1px;
-    padding-bottom: 1px;
-    padding-top: 1px;
+footer h5{
+    letter-spacing: 00.5px;
+    word-spacing: 1px;
+    font-size: 12px;
 }
 .font-family{
     padding-right: 15px;
     font-family: 'Meow Script', cursive;
 }
-
-
-
-
-
-
-
-
-
-
